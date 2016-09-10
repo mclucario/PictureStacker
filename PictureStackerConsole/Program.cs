@@ -3,6 +3,8 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Drawing;
 
+//Copyright McLucario
+
 namespace PictureStackerConsole {
 
     class Program {
